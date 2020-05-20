@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/blue_caps_chinese_printer.iml" filepath="$PROJECT_DIR$/blue_caps_chinese_printer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/blue_caps_chinese_printer_android.iml" filepath="$PROJECT_DIR$/android/blue_caps_chinese_printer_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/blue_caps_chinese_printer_example_android.iml" filepath="$PROJECT_DIR$/example/android/blue_caps_chinese_printer_example_android.iml" />
+    </modules>
+  </component>
+</project>
